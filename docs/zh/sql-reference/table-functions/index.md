@@ -23,7 +23,7 @@ toc_title: "\u5BFC\u8A00"
 !!! warning "警告"
     你不能使用表函数，如果 [allow_ddl](../../operations/settings/permissions-for-queries.md#settings_allow_ddl) 设置被禁用。
 
-| 函数               | 产品描述                                                                                               |
+| 函数               | 描述                                                                                               |
 |--------------------|--------------------------------------------------------------------------------------------------------|
 | [file](file.md)    | 创建一个 [文件](../../engines/table-engines/special/file.md)-引擎的表。                                |
 | [merge](merge.md)   | 创建一个 [合并](../../engines/table-engines/special/merge.md)-引擎的表。                               |
